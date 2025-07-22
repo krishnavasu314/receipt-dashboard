@@ -1,0 +1,4 @@
+  Vendor: Walmart
+  Date: 2024-07-01
+  Amount: 123.45
+  Category: Groceries

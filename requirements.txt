@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+pytesseract
+python-multipart
+Pillow
+pdf2image
+
+
+
