@@ -67,10 +67,6 @@ streamlit run app.py
 - No authentication or user management (single-user demo app).
 - Multi-currency and multi-language support are not implemented.
 
----
-
-## Screenshots / Demo
-(Add screenshots of the dashboard and/or a link to a demo video here)
 
 ---
 
